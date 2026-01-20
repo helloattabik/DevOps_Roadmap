@@ -4,7 +4,7 @@
 
 ## 🔥 Progress Tracker
 ### 1. 🟢 Version Control (Git)
-- [ ] Basic Commands (clone, add, commit, push)
+- [X] Basic Commands (clone, add, commit, push)
 - [ ] GitHub Workflow (Forking & Cloning)
 - [ ] Advanced (Branching, Merging, Pull Requests, Etc)
 
