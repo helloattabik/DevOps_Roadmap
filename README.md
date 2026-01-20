@@ -1,3 +1,15 @@
+# Atta's DevOps Journey
+> Forked from [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) to track my personal learning progress.
+
+
+## 🔥 Progress Tracker
+### 1. 🟢 Version Control (Git)
+- [ ] Basic Commands (clone, add, commit, push)
+- [ ] GitHub Workflow (Forking & Cloning)
+- [ ] Advanced (Branching, Merging, Pull Requests, Etc)
+
+
+
 # DevOps Roadmap 2025.
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
